@@ -20,8 +20,8 @@ I have a strong passion for sports, particularly volleyball, which has taught me
   [Computer Science Degree Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
 
 - **Minor in Enterprise, Banking, Labor, and Taxation**  
-  *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation  
-  - [Minor Badge](https://bestr.it/award/show/QvtZ6_WsTEWBnsO_0uQbbQ)
+  *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation
+  [Minor Badge](https://bestr.it/award/show/QvtZ6_WsTEWBnsO_0uQbbQ)
 
 - **High School of Applied Sciences**  
   G.B. Quadri High School, Vicenza, Italy - [High School website](https://www.liceoquadri.edu.it/)  
