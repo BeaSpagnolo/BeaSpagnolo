@@ -8,23 +8,23 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 
 ### 📚 Education
 - **Master’s Degree in Data Science**  
-  University of Padua, Italy - [unipd.it](https://www.unipd.it/)  
+  University of Padua, Italy - [University of Padua website](https://www.unipd.it/)  
   *Specialization*: Machine Learning for Intelligent Systems  
   *Courses Completed*: Statistical Learning, Stochastic Methods, Machine Learning, Deep Learning, Natural Language Processing, Optimization for Data Science, Fundamentals of Information System, Start-up in ICT
   *Occupational Skills*: Statistical skills, AI analysis, programming, and computer science.
 
 - **Bachelor’s Degree in Computer Science**  
-  Ca’ Foscari University, Venice, Italy - [unive.it](https://www.unive.it)  
+  Ca’ Foscari University, Venice, Italy - [University of Venice website](https://www.unive.it)  
   *Final Grade*: 95/110  
   *Thesis*: Exponential Smoothing  
-  - [Exponential Smoothing Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
+  [Computer Science Degree Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
 
 - **Minor in Enterprise, Banking, Labor, and Taxation**  
   *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation  
   - [Minor Badge](https://bestr.it/award/show/QvtZ6_WsTEWBnsO_0uQbbQ)
 
 - **High School of Applied Sciences**  
-  G.B. Quadri High School, Vicenza, Italy - [liceoquadri.edu.it](https://www.liceoquadri.edu.it/)  
+  G.B. Quadri High School, Vicenza, Italy - [High School website](https://www.liceoquadri.edu.it/)  
 
 ---
 
@@ -36,7 +36,7 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 
 ### 💼 Work Experience
 - **Internship at Logos Technologies s.r.l.**  
-  Mestre (VE), Italy - [logostech.it](https://www.logostech.it/)  
+  Mestre (VE), Italy - [Logos website](https://www.logostech.it/)  
   *Role*: Supported projects involving statistical analysis, machine learning, and neural networks for client-based solutions.  
   *Responsibilities*: Co-lead on projects focused on statistical outputs of predictive models.
 
@@ -46,8 +46,7 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 - **Programming**: Python, R, SQL, C++, Java
 - **Data Science & Analysis**: Machine Learning, Deep Learning, Statistical Analysis, Neural Networks
 - **Tools**: Power BI, AWS, Microsoft Office, Google Workspace, Online Collaboration Tools
-- **Certifications**:  
-  *ECDL Certification* - Computer Essentials, Online Essentials, Word Processing, Spreadsheets, IT Security, Presentation, Online Collaboration
+- **ECDL Certification** - Computer Essentials, Online Essentials, Word Processing, Spreadsheets, IT Security, Presentation, Online Collaboration
 
 ---
 
