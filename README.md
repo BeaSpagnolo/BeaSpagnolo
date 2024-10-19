@@ -25,7 +25,7 @@ I have a strong passion for sports, particularly volleyball, which has taught me
   🌟Take a look at some of the projects I’ve worked on: [DAISGram](https://github.com/BeaSpagnolo/DAISgram), [PocketVenice](https://github.com/BeaSpagnolo/PocketVenice)
 
 - **Minor in Enterprise, Banking, Labor, and Taxation**  
-  *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation
+  *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation    
   *Badge*: [Minor Badge](https://bestr.it/award/show/QvtZ6_WsTEWBnsO_0uQbbQ)
 
 - **High School of Applied Sciences**  
