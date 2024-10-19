@@ -18,7 +18,6 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 
 - **Bachelor’s Degree in Computer Science**  
   Ca’ Foscari University, Venice, Italy - [University of Venice website](https://www.unive.it)  
-  *Final Grade*: 95/110  
   *Thesis*: Exponential Smoothing  
   *Badge*: [Computer Science Degree Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
 
