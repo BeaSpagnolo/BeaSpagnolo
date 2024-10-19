@@ -12,12 +12,20 @@ I have a strong passion for sports, particularly volleyball, which has taught me
   *Specialization*: Machine Learning for Intelligent Systems  
   *Courses Completed*: Statistical Learning, Stochastic Methods, Machine Learning, Deep Learning, Natural Language Processing, Optimization for Data Science, Fundamentals of Information System, Start-up in ICT
   *Occupational Skills*: Statistical skills, AI analysis, programming, and computer science.
+  ⚙️ Take a look at some of the projects I’ve worked on:
+- [MachineLearning](https://github.com/BeaSpagnolo/MachineLearning)
+- [DeepLearning](https://github.com/BeaSpagnolo/DeepLearning)
+- [StatisticalLearning](https://github.com/BeaSpagnolo/StatisticalLearning)
+- [NLP_project](https://github.com/BeaSpagnolo/NLP_project)
 
 - **Bachelor’s Degree in Computer Science**  
   Ca’ Foscari University, Venice, Italy - [University of Venice website](https://www.unive.it)  
   *Final Grade*: 95/110  
   *Thesis*: Exponential Smoothing  
   [Computer Science Degree Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
+  ⚙️ Take a look at some of the projects I’ve worked on:
+  - [DAISGram](https://github.com/BeaSpagnolo/DAISgram)
+  - [PocketVenice](https://github.com/BeaSpagnolo/PocketVenice)
 
 - **Minor in Enterprise, Banking, Labor, and Taxation**  
   *Topics Covered*: Business and management, banking, savings, labor, social security, and taxation
