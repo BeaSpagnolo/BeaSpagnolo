@@ -2,6 +2,7 @@
 
 I’m a dynamic and enterprising 23-year-old currently living in Vicenza, Italy. After completing my Bachelor’s in Computer Science at the University of Venice, I am now in the final year of my Master’s degree in Data Science at the University of Padua.  
 I have a strong passion for sports, particularly volleyball, which has taught me the value of teamwork, collaboration, and discipline.
+
 📬 Feel free to also check my [LinkedIn profile](https://www.linkedin.com/in/beatrice-spagnolo-b1a2702a4).
 
 ---
@@ -13,10 +14,10 @@ I have a strong passion for sports, particularly volleyball, which has taught me
   *Courses Completed*: Statistical Learning, Stochastic Methods, Machine Learning, Deep Learning, Natural Language Processing, Optimization for Data Science, Fundamentals of Information System, Start-up in ICT
   *Occupational Skills*: Statistical skills, AI analysis, programming, and computer science.
   ⚙️ Take a look at some of the projects I’ve worked on:
-- [MachineLearning](https://github.com/BeaSpagnolo/MachineLearning)
-- [DeepLearning](https://github.com/BeaSpagnolo/DeepLearning)
-- [StatisticalLearning](https://github.com/BeaSpagnolo/StatisticalLearning)
-- [NLP_project](https://github.com/BeaSpagnolo/NLP_project)
+  - [MachineLearning](https://github.com/BeaSpagnolo/MachineLearning)
+  - [DeepLearning](https://github.com/BeaSpagnolo/DeepLearning)
+  - [StatisticalLearning](https://github.com/BeaSpagnolo/StatisticalLearning)
+  - [NLP_project](https://github.com/BeaSpagnolo/NLP_project)
 
 - **Bachelor’s Degree in Computer Science**  
   Ca’ Foscari University, Venice, Italy - [University of Venice website](https://www.unive.it)  
@@ -55,10 +56,3 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 - **Data Science & Analysis**: Machine Learning, Deep Learning, Statistical Analysis, Neural Networks
 - **Tools**: Power BI, AWS, Microsoft Office, Google Workspace, Online Collaboration Tools
 - **ECDL Certification** - Computer Essentials, Online Essentials, Word Processing, Spreadsheets, IT Security, Presentation, Online Collaboration
-
----
-
-### 🌟 Featured Projects
-Take a look at some of the projects I’ve worked on:
-
-- **[DAISGram](https://github.com/RiccardoSale/DAISgram)**: Repository for Daisgram project A.A. 2020-2021
