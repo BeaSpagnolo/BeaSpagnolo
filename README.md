@@ -18,7 +18,7 @@ I have a strong passion for sports, particularly volleyball, which has taught me
 
 - **Bachelor’s Degree in Computer Science**  
   Ca’ Foscari University, Venice, Italy - [University of Venice website](https://www.unive.it)  
-  *Thesis*: Exponential Smoothing  
+  *Thesis*: [Exponential Smoothing](https://github.com/BeaSpagnolo/ExponentialSmoothing)
   *Badge*: [Computer Science Degree Badge](https://openbadges.bestr.it/public/assertions/8_aJC6-gTwmBfJGQpkVnTQ)
 
   🌟Take a look at some of the projects I’ve worked on: [DAISGram](https://github.com/BeaSpagnolo/DAISgram), [PocketVenice](https://github.com/BeaSpagnolo/PocketVenice)
